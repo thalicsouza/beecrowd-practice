@@ -1,3 +1,5 @@
+# 1018 - Banknotes
+# original link: https://www.beecrowd.com.br/judge/en/problems/view/1018
 value = int(input())
 print(value)
 
